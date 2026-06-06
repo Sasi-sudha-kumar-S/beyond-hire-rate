@@ -32,12 +32,13 @@ To build a **6-page Power BI dashboard** that gives HR and Talent Acquisition te
 | 2 | Source Quality & Effectiveness | ✅ Done |
 | 3 | Time-to-Hire & Time-to-Productivity | ✅ Done |
 | 4 | Offer Acceptance & Drop-off Analysis | ✅ Done |
-| 5 | Quality of Hire (Post-hire Performance) | 🔄 In Progress |
-| 6 | Cost of a Bad Hire | 🔄 In Progress |
+| 5 | Quality of Hire (Post-hire Performance) | ✅ Done |
+| 6 | Cost of a Bad Hire | ✅ Done |
 
 ---
 
 ## 🗂️ Repository Structure
+
 ```plaintext
 beyond-hire-rate/
 │
@@ -51,13 +52,14 @@ beyond-hire-rate/
 │   ├── page1-funnel-overview.png
 │   ├── page2-source-quality.png
 │   ├── page3-time-to-hire.png
-│   └── page4-offer-analysis.png
+│   ├── page4-offer-analysis.png
+│   ├── page5-quality-of-hire.png
+│   └── page6-cost-of-bad-hire.png
 │
 ├── docs/
 │   ├── metrics-glossary.md
 │   └── data-dictionary.md
 │
-├── ROADMAP.md
 └── README.md
 ```
 
@@ -84,9 +86,15 @@ beyond-hire-rate/
 
 ---
 
+## 🔗 Related Project
+
+This project builds on the foundation of **[Recruitment Tracker — Excel](https://github.com/Sasi-sudha-kumar-S/HR-Analytics-Portfolio)**, which tracks the hiring pipeline from sourcing to offer.
+
+---
+
 ## 📌 Project Status
 
-🔄 **Work in Progress** — 4 of 6 dashboard pages complete. See [ROADMAP.md](./ROADMAP.md) for what's coming next.
+✅ **Complete** — All 6 dashboard pages done and published.
 
 ---
 
